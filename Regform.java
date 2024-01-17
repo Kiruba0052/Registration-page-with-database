@@ -134,11 +134,7 @@ new Registrationform();
 }
 }
 
-/*
-create database kiruba;
-use kiruba;
-create table stu(USERNAME varchar(20),LANGUAGE varchar(20),AADDARNUMBER int,PASSWORD varchar(30),CONFIRMPASSWORD varchar(30),PINCODE int,EMAIL varchar(50));
-*/
+
 
 
 
